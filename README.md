@@ -67,16 +67,10 @@
 
 
 <div align="center">
-  <a href="https://github.com/lover3123/lover3123/">
-  <img  src="https://github.com/lover3123/lover3123/blob/main/Assets/gridsnake.svg"
-       alt="snake" /></a>
+  <a href="https://github.com/lover3123/lover3123">
+    <img src="https://raw.githubusercontent.com/lover3123/lover3123/main/Assets/gridsnake.svg" alt="snake" />
+  </a>
 </div>
-
-
-</a>
-</div>
-
-<br>
 
 
 ## 🌐 Socials:
