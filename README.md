@@ -26,12 +26,12 @@ and upload it to a repo, then replace the src link.
 
 <p align="center">
 <!-- ⭐ REPLACE THIS with a cool animated GIF banner! (1200x300px recommended) -->
-<img src="https://www.google.com/search?q=https://placehold.co/1200x300/6366F1/FFFFFF%3Ftext%3DWelcome%2Bto%2Bmy%2BCreative%2BStudio%26font%3Dinter" alt="Welcome banner"/>
+<img src=https://giphy.com/explore/cyber"/>
 </p>
 
 <!-- =========== INTRODUCTION =========== -->
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm [Rohan Rajbanshi] 👋</h1>
 <h3 align="center">A Creative Developer & UI/UX Designer who loves building beautiful, functional digital experiences.</h3>
 
 <p align="center">
