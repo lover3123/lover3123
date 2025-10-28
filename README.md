@@ -56,8 +56,7 @@ and upload it to a repo, then replace the src link.
 <p align="center">
 <!-- Add/remove badges for your design tools -->
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Illustrator-FF9A00%3Fstyle%3Dfor-the-badge%26logo%3Dadobeillustrator%26logoColor%3Dwhite" alt="Illustrator"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe%2520Photoshop-31A8FF%3Fstyle%3Dfor-the-badge%26logo%3Dadobephotoshop%26logoColor%3Dwhite" alt="Photoshop"/>
+
 
 
 
@@ -75,12 +74,10 @@ UI/UX Research | Wireframing | Prototyping | Design Systems
   <p align="center">
     <!-- Add/remove badges for your tech stack -->
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     <br>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </p>
 </td>
@@ -111,18 +108,10 @@ width="48%"
 <h2 align="center">Let's Connect 🤝</h2>
 <p align="center">
 <!-- ⭐ Replace all the href links with your actual URLs -->
-<a href="https[YOUR-LINKEDIN-URL]" target="_blank">
+<a href="www.linkedin.com/in/rohan-rajbanshi-773882386" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
-<a href="https[YOUR-DRIBBBLE-URL]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Dribbble-EA4C89%3Fstyle%3Dfor-the-badge%26logo%3Ddribbble%26logoColor%3Dwhite" alt="Dribbble"/>
-</a>
-<a href="https[YOUR-PORTFOLIO-URL]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-6366F1%3Fstyle%3Dfor-the-badge%26logo%3Dglobe%26logoColor%3Dwhite" alt="Portfolio"/>
-</a>
-<a href="mailto:[YOUR-EMAIL]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email%2520Me-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
-</a>
+
 </p>
 
 <!-- =========== FOOTER (PROFILE VIEWS) =========== -->
