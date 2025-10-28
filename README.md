@@ -88,19 +88,5 @@ UI/UX Research | Wireframing | Prototyping | Design Systems
 
 <!-- =========== GITHUB STATS =========== -->
 
-<h2 align="center">My GitHub Stats 📊</h2>
-<p align="center">
-<!-- ⭐ Change YOUR-USERNAME to your GitHub username -->
-<img
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR-USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue"
-alt="GitHub Stats"
-width="48%"
-/>
-<img
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR-USERNAME%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue"
-alt="Top Languages"
-width="48%"
-/>
-</p>
 
 
