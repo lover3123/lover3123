@@ -103,21 +103,4 @@ width="48%"
 />
 </p>
 
-<!-- =========== SOCIALS =========== -->
 
-<h2 align="center">Let's Connect 🤝</h2>
-<p align="center">
-<!-- ⭐ Replace all the href links with your actual URLs -->
-<a href="www.linkedin.com/in/rohan-rajbanshi-773882386" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-
-</p>
-
-<!-- =========== FOOTER (PROFILE VIEWS) =========== -->
-
-<p align="center">
-<!-- ⭐ Change YOUR-USERNAME to your GitHub username -->
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DYOUR-USERNAME%26color%3D6366F1%26style%3Dflat-square" alt="Profile views" />
-CSS
-</p>
