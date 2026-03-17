@@ -170,10 +170,7 @@ fun_fact: I debug with coffee ☕ and ship with confidence 🚀
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=lover3123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
+null
 ---
 
 ## 📊 Coding Time & Languages
@@ -249,8 +246,6 @@ fun_fact: I debug with coffee ☕ and ship with confidence 🚀
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lover3123/lover3123/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
-
-> **⚠️ Snake setup:** Go to your repo Settings → Actions → General → Allow all actions. Then create `.github/workflows/snake.yml` with the snake action workflow. See [platane/snk](https://github.com/platane/snk) for setup.
 
 ---
 
