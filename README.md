@@ -1,92 +1,60 @@
-<!--
-
-👋 Hi! Thanks for using this template.
-⭐ To make it your own, you'll need to find and replace a few placeholders:
-
-[Your Name] -> Your actual name.
-
-YOUR-USERNAME -> Your GitHub username (this appears in 3 places!).
-
-[YOUR-LINKEDIN-URL] -> Your full LinkedIn profile URL.
-
-[YOUR-DRIBBBLE-URL] -> Your Dribbble profile URL.
-
-[YOUR-PORTFOLIO-URL] -> Your personal portfolio website URL.
-
-[YOUR-EMAIL] -> Your email address.
-
-The big banner image: I've used a placeholder. Create a custom banner (1200x300px is a good size)
-and upload it to a repo, then replace the src link.
-
-✨ ANIMATION TIP: The best way to add animation is to replace static images (like the banner) with an animated .GIF file!
-
--->
-
-<!-- =========== BANNER =========== -->
-
 <p align="center">
-<!-- ⭐ REPLACE THIS with a cool animated GIF banner! (1200x300px recommended) -->
-<img src=https://giphy.com/explore/cyber"/>
+  <img src="https://i.pinimg.com/originals/1e/8c/d7/1e8cd731338575a74d28c2e6f42045cc.gif" alt="Red Cyberpunk Anime Grid" width="100%" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Readme-Macros/main/src/images/neon-red-line.gif" width="100%" />
 </p>
 
-<!-- =========== INTRODUCTION =========== -->
-
-<h1 align="center">Hi, I'm [Rohan Rajbanshi] 👋</h1>
-<h3 align="center">A Creative Developer & UI/UX Designer who loves building beautiful, functional digital experiences.</h3>
+<h1 align="center">SYSTEM WAKE: Rohan Rajbanshi // 🔴</h1>
+<h3 align="center">Architecting digital realities & engineering the systems of tomorrow.</h3>
 
 <p align="center">
-🎨 I turn ideas into pixel-perfect, user-centric designs.
-<br />
-💻 I turn designs into responsive, high-performance code.
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Crafting+pixel-perfect+simulations...;Executing+responsive+logic...;Optimizing+data+structures...;Bridging+UI/UX+with+embedded+hardware..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Crafting+pixel-perfect+simulations...;Executing+responsive+logic...;Optimizing+data+structures...;Bridging+UI/UX+with+embedded+hardware..." />
+  </a>
 </p>
 
-<!-- =========== "MY TOOLKIT" SECTION (2-COLUMN LAYOUT) =========== -->
+<p align="center">
+  🔴 <b>Design Paradigm</b>: I turn complex ideas into intuitive, user-centric visual layers.<br />
+  ⚙️ <b>Execution Protocol</b>: I translate those designs into high-performance code and hardware architecture.
+</p>
 
-<h2 align="center">My Toolkit 🧰</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Readme-Macros/main/src/images/neon-red-line.gif" width="100%" />
+</p>
 
-
-
-
+<h2 align="center">Equipped Cybernetics 🧰</h2>
 
 <table width="100%">
 <tr>
-<!-- === DESIGN COLUMN === -->
 <td width="50%" valign="top">
-<h3 align="center">Design 🎨</h3>
-<p align="center">
-<!-- Add/remove badges for your design tools -->
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-
-
-
-
-
-
-
-
-UI/UX Research | Wireframing | Prototyping | Design Systems
-</p>
-</td>
-
-<!-- === CODE COLUMN === -->
-<td width="50%" valign="top">
-  <h3 align="center">Code 💻</h3>
+  <h3 align="center">Visual Layer 🎨</h3>
   <p align="center">
-    <!-- Add/remove badges for your tech stack -->
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <br>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=FF0000" alt="Figma"/>
+    <br><br>
+    <b>Core Protocols:</b><br>
+    UI/UX Research | Wireframing <br> 
+    Rapid Prototyping | Design Systems
   </p>
 </td>
 
+<td width="50%" valign="top">
+  <h3 align="center">Logic & Systems 💻</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=FF0000" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=FF0000" alt="React"/>
+    <br>
+    <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=FF0000" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=FF0000" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwind-css&logoColor=FF0000" alt="Tailwind"/>
+    <br><br>
+    <b>Core Protocols:</b><br>
+    Data Structures & Algorithms <br>
+    Embedded Systems & Microprocessors
+  </p>
+</td>
 
 </tr>
 </table>
 
-<!-- =========== GITHUB STATS =========== -->
-
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Readme-Macros/main/src/images/neon-red-line.gif" width="100%" />
+</p>
