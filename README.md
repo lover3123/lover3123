@@ -1,113 +1,265 @@
-<style>
-  body {
-    background-color: #0d1117; /* Very dark background */
-    color: #c9d1d9; /* Default text color */
-    font-family: 'Courier New', Courier, monospace; /* Monospace for the tech feel */
-  }
+<div align="center">
 
-  /* Main container shadow and styling */
-  .hud-container {
-    border: 2px solid #00ffff; /* Cyber Blue glowing border */
-    box-shadow: 0 0 15px #00ffff, inset 0 0 15px #00ffff;
-    padding: 20px;
-    background: rgba(0, 0, 0, 0.7); /* Translucent overlay */
-  }
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffcc,100:00aaff&height=200&section=header&text=Rohan%20Rajbanshi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Creative%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Digital%20Craftsman&descAlignY=60&descSize=18&animation=twinkling" />
 
-  /* Stylized Titles */
-  h1.hud-header, h2.hud-title, h3.hud-subtitle {
-    color: #00ffff; /* Cyber Blue */
-    text-transform: uppercase;
-    text-shadow: 0 0 5px #00ffff;
-    letter-spacing: 2px;
-  }
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Turning+Ideas+Into+Digital+Reality+%F0%9F%9A%80;UI%2FUX+Designer+%26+Frontend+Developer+%E2%9C%A8;Building+Pixel-Perfect+Experiences+%F0%9F%8E%AF;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%93%88" />
+</a>
 
-  /* Blinking Animation for Status Indicators */
-  @keyframes blink {
-    50% { opacity: 0; }
-  }
-  .blink {
-    animation: blink 1s linear infinite;
-    color: #00ffff;
-  }
+<br/>
 
-  /* Section Containers */
-  .hud-section {
-    border: 1px solid #333;
-    background: rgba(20, 20, 20, 0.5);
-    padding: 15px;
-    margin-bottom: 20px;
-  }
+<!-- PROFILE VIEWS + SOCIAL BADGES -->
+<img src="https://komarev.com/ghpvc/?username=lover3123&color=00ffcc&style=for-the-badge&label=PROFILE+VIEWS" />
+&nbsp;
+<a href="https://github.com/lover3123?tab=followers">
+  <img src="https://img.shields.io/github/followers/lover3123?label=Followers&style=for-the-badge&color=00ffcc&labelColor=0d1117" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&labelColor=0d1117" />
 
-  /* Red accent highlights (Iron Man-esque) */
-  .highlight-red {
-    color: #ff3333;
-    text-shadow: 0 0 5px #ff3333;
-  }
-</style>
-
-<div class="hud-container">
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0Iy6nCgBElb3i960/giphy.gif" alt="Arc Reactor" width="250" />
-</p>
-
-<h1 align="center" class="hud-header">[SYSTEM INITIALIZING] 👋</h1>
-
-<div class="hud-section" align="center">
-  <h3 class="hud-subtitle">Hi, I'm <span class="highlight-red">[Your Name]</span> // Creative Developer & UI/UX Designer</h3>
-  
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Reticulating+splines...;Optimizing+user+interfaces...;Developing+digital+realities." alt="Typing SVG" />
-    </a>
-  </p>
-  
-  <p>
-    <span class="highlight-red">>></span> Compiling pixel-perfect designs into responsive, high-performance execution.
-  </p>
 </div>
 
-<h2 align="center" class="hud-title">ACTIVE MODULES [v1.0] 🧰</h2>
+---
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+## 🧬 `whoami`
+
+```yaml
+name: Rohan Rajbanshi
+role: Creative Developer & UI/UX Designer
+location: India 🇮🇳
+focus:
+  - Building beautiful, functional digital experiences
+  - Bridging design thinking with clean code
+  - Crafting pixel-perfect, user-centric interfaces
+currently_learning: React, TypeScript, Framer Motion
+open_to: Collaborations, Freelance, Full-time roles
+fun_fact: I debug with coffee ☕ and ship with confidence 🚀
+```
+
+---
+
+## ⚡ Stats Dashboard
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lover3123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&ring_color=00ffcc" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lover3123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=lover3123&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ffcc&ring=00ffcc&fire=ff6e6e&currStreakLabel=00ffcc&sideLabels=c9d1d9&dates=666666" />
+
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lover3123&theme=tokyo-night&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&area_color=00ffcc&hide_border=true" />
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 🎨 Design & UX
+<div>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Spline-000000?style=for-the-badge&logo=spline&logoColor=white" />
+</div>
+
+### 💻 Frontend Development
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</div>
+
+### ⚙️ Tools & Workflow
+<div>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</div>
+
+### 🗃️ Backend & Databases *(Learning)*
+<div>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
 <tr>
-<td width="50%" valign="top" class="hud-section" style="border-color: #00ffff; box-shadow: 0 0 10px #00ffff;">
-<h3 align="center" class="hud-subtitle">Design & UX //</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <br><br>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Holographic Interface" width="100" />
-  <br><br>
-  <span class="blink">●</span> UI/UX Research | Wireframing | Prototyping | Design Systems
-</p>
-</td>
+<td width="50%">
 
-<td width="50%" valign="top" class="hud-section" style="border-color: #ff3333; box-shadow: 0 0 10px #ff3333;">
-  <h3 align="center" class="hud-subtitle"><span class="highlight-red">Core Logic //</span></h3>
-  <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <br>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <br><br>
-    <img src="https://media.giphy.com/media/3oKIPnAiaMCql79LMc/giphy.gif" alt="Terminal Scrolling" width="100" />
-  </p>
+### 🎯 Project Alpha
+> *A sleek portfolio template with glassmorphism UI*
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+🔗 [Live Demo](https://github.com/lover3123) · 📁 [Source Code](https://github.com/lover3123)
+
+</td>
+<td width="50%">
+
+### 🛍️ Project Beta
+> *E-commerce UI with dark mode + micro-animations*
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+🔗 [Live Demo](https://github.com/lover3123) · 📁 [Source Code](https://github.com/lover3123)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 Project Gamma
+> *AI-powered design tool concept with Figma API*
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+🔗 [Live Demo](https://github.com/lover3123) · 📁 [Source Code](https://github.com/lover3123)
+
+</td>
+<td width="50%">
+
+### 📊 Project Delta
+> *Real-time dashboard with interactive data viz*
+
+![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+🔗 [Live Demo](https://github.com/lover3123) · 📁 [Source Code](https://github.com/lover3123)
+
 </td>
 </tr>
 </table>
 
-<h2 align="center" class="hud-title">SYSTEM DIAGNOSTICS [GitHub Stats] 📈</h2>
-<div class="hud-section" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-<p align="center" style="border-top: 2px solid #ff3333; padding-top: 10px;">
-  <span class="blink">STATUS: ONLINE</span> | 
-  <a href="mailto:[YOUR-EMAIL]" style="color: #00ffff; text-decoration: none;">[Contact System]</a>
-</p>
+---
 
-</div> ```
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=lover3123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+---
+
+## 📊 Coding Time & Languages
+
+<div align="center">
+
+<!-- Replace YOUR_WAKATIME_USERNAME with your actual WakaTime username after setting it up at wakatime.com -->
+<!--
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9" />
+-->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lover3123&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lover3123&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lover3123&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lover3123&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lover3123&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://twitter.com/YOUR-TWITTER">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:YOUR@EMAIL.COM">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://YOUR-PORTFOLIO.com">
+  <img src="https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://dribbble.com/YOUR-DRIBBBLE">
+  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://behance.net/YOUR-BEHANCE">
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 💭 Dev Quote of the Day
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lover3123/lover3123/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lover3123/lover3123/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lover3123/lover3123/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+> **⚠️ Snake setup:** Go to your repo Settings → Actions → General → Allow all actions. Then create `.github/workflows/snake.yml` with the snake action workflow. See [platane/snk](https://github.com/platane/snk) for setup.
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,50:00ffcc,100:0d1117&height=120&section=footer&animation=twinkling" />
+
+**⭐ Star some repos if you find them useful — it means the world! ⭐**
+
+*"First, solve the problem. Then, write the code." — John Johnson*
+
+</div>
