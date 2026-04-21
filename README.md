@@ -149,7 +149,7 @@ open_to:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lover3123)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR-PORTFOLIO.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=vercel&logoColor=black)](https://myportfolio-flame-ten-69.vercel.app/#skills)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)
 
 <br/>
