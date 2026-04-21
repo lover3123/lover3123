@@ -116,12 +116,12 @@ fun_fact: I debug with coffee ☕ and ship with confidence 🚀
 <tr>
 <td width="50%">
 
-### 🎯 Project Alpha
+### 🎯 Weather APP
 > *A sleek portfolio template with glassmorphism UI*
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![Handlebars](https://img.shields.io/badge/-Handlebars-E4405F?style=flat-square&logo=handlebars&logoColor=white)](https://handlebarsjs.com/)
 
 🔗 [Live Demo](https://github.com/lover3123) · 📁 [Source Code](https://github.com/lover3123)
 
