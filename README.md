@@ -19,32 +19,7 @@ I’m curious, persistent, and particular about the details. I like asking quest
 **02 / Learning** — Computer engineering, development practices, and reliable systems.<br/>
 **03 / Exploring** — Open source, AI/ML, and ways to connect thoughtful design with useful software.
 
-### Selected work
 
-<p align="center"><a href="https://myportfolio-flame-ten-69.vercel.app/work/bazaar"><img src="./assets/bazaar.png" width="720" alt="Screenshot of the Bazaar electronics storefront" /></a></p>
-
-#### Bazaar
-
-An electronics storefront with product discovery, search, filters, and a persistent cart.<br/>
-`React` · `Vite` · `E-commerce`<br/>
-[Source ↗](https://github.com/lover3123/E-commerce-Project) · [Live demo ↗](https://e-commerce-project-eight-kappa.vercel.app/) · [Case study ↗](https://myportfolio-flame-ten-69.vercel.app/work/bazaar)
-
-<p align="center"><a href="https://myportfolio-flame-ten-69.vercel.app/work/nmit-gym-management"><img src="./assets/gym.png" width="720" alt="Screenshot of the NMIT gym management login interface" /></a></p>
-
-#### NMIT Gym Management
-
-A system for managing member records, plans, and everyday gym operations.<br/>
-`Full stack` · `Database fundamentals`<br/>
-[Source ↗](https://github.com/lover3123/GYM-MANAGEMENT_SYSTEM) · [Live demo ↗](https://gym-management-system-one-red.vercel.app/) · [Case study ↗](https://myportfolio-flame-ten-69.vercel.app/work/nmit-gym-management)
-
-**More to explore**
-
-- **[Weather App](https://github.com/lover3123/weather-app):** A responsive interface connected to weather data through an API. [Live demo ↗](https://weatherhelp.onrender.com/)
-- **[Supply Chain / Solution Challenge](https://github.com/lover3123/Supply_chain):** A logistics project exploring routing, weather-aware operations, and geospatial data. [Overview ↗](https://myportfolio-flame-ten-69.vercel.app/work/supply-chain-solution-challenge)
-
-### The design side
-
-<p align="center"><a href="https://myportfolio-flame-ten-69.vercel.app/work/ev-car-prototype"><img src="./assets/ev-prototype.png" height="280" alt="EV interface prototype showing charging, maps, and vehicle selection" /></a></p>
 
 **Interfaces should make things easier.** As a **UI Designer at Diseño Divino**, I work on student-led interfaces and visual systems at NMIT. My **EV Car prototype** explores an electric vehicle interface and user flows in Figma.
 
