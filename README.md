@@ -9,7 +9,7 @@
   <a href="mailto:userchat12@gmail.com">Say hello ↗</a>
 </p>
 
-### A little about me
+### A little about me 
 
 I’m **Rohan**, a Computer Engineering student at **Nitte Meenakshi Institute of Technology, Bengaluru**. I enjoy the space where design decisions become working interfaces and engineering ideas become useful projects.
 
