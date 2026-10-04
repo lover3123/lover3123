@@ -6,7 +6,7 @@
   <a href="https://myportfolio-flame-ten-69.vercel.app/">Portfolio ↗</a> &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/rohan-rajbanshi-773882386/">LinkedIn ↗</a> &nbsp; · &nbsp;
   <a href="https://leetcode.com/u/lover3123/">LeetCode ↗</a> &nbsp; · &nbsp;
-  <a href="mailto:userchat12@gmail.com">Say hello ↗</a>
+  <a href="mailto:userchat12@gmail.com">Say hello ↗</a> 
 </p>
 
 ### A little about me 
